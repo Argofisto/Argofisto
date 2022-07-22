@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Argofisto
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML5-CSS-JAVASCRIPT-How to survive daily
-- 💞️ I’m looking to collaborate on everyone who know and want to help me if she/he can
+- 👀 I’m interested in Frontend and ui design
 - 📫 You can reach me via mail: gerardoampuero03@gmail.com
 
 <!---
