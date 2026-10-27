@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Argofisto
-- 👀 I’m interested in Frontend and ui design
+- 👀 I’m a visual artist interested in photography and creative audio reactive visuales, im actually learning touch designer, vcv rack.
 - 📫 You can reach me via mail: gerardoampuero03@gmail.com
 
 <!---
